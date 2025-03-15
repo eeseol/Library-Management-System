@@ -1,0 +1,28 @@
+Doe, John, The Great Adventure,15,29.99
+Smith, Jane, Learning C Programming,10,39.99
+Brown, Charlie, Introduction to Algorithms,8,49.99
+Johnson, Emily, Data Structures and You,20,24.99
+Williams, Michael, Mastering Python,12,19.99
+Jones, Sarah, C Programming for Beginners,25,15.49
+Miller, David, Advanced Java,5,34.99
+Davis, Linda, Understanding Operating Systems,18,45.50
+Martinez, Robert, Introduction to Databases,7,29.95
+Hernandez, Maria, Exploring Data Science,22,39.00
+Lopez, James, Web Development with HTML,30,19.99
+Gonzalez, Patricia, Cloud Computing Essentials,6,59.99
+Wilson, Daniel, Machine Learning Basics,14,41.99
+Anderson, Rebecca, Algorithms in C++,11,35.99
+Thomas, Kevin, Modern Web Frameworks,17,28.49
+Taylor, Jessica, Software Engineering Principles,9,48.75
+Moore, Paul, The Art of Debugging,13,22.99
+Jackson, Olivia, Computer Networks,19,33.00
+Martin, Brian, Digital Signal Processing,8,25.00
+Lee, Anna, Artificial Intelligence with Python,21,40.00
+Perez, Christopher, Internet of Things,4,27.50
+Harris, Jessica, JavaScript for Experts,16,18.49
+Clark, Robert, Big Data Analytics,23,52.99
+Lewis, Karen, Agile Project Management,5,32.99
+Young, William, Blockchain Technology,10,47.00
+King, Olivia, Cybersecurity Fundamentals,14,44.25
+Wright, Steven, Principles of Compiler Design,6,50.00
+Scott, Elizabeth, Game Development with Unity,12,29.49
